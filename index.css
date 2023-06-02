@@ -1,0 +1,22 @@
+* {
+    margin: 0;
+    padding: 0;
+
+}
+
+.start {
+    text-align: center;
+    color: blue;
+}
+
+.btn1 {
+    color: white;
+    background: blue;
+    padding: 10px;
+    border-radius: 15px;
+    border: none;
+}
+.all{
+    text-align: center;
+    margin-top: 200px;
+}
